@@ -1,6 +1,7 @@
 # Hack The Box --- MonitorsFour Writeup
 
-![Completion Screenshot](monitorsfour_completion.png)
+![Completion Screenshot](monitorsfour_completion.png)<img width="1305" height="841" alt="Capture d&#39;écran 2026-02-17 223303" src="https://github.com/user-attachments/assets/a6ff5e63-4734-4987-810f-77be1e5204eb" />
+
 
 ------------------------------------------------------------------------
 
